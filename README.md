@@ -1,2 +1,2 @@
-# E-commerce-
-Website on shoes collection
+# E-commerce
+Website on online shoes shoppiping.
